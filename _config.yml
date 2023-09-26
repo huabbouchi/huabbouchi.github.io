@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Foundation"
+title                    : "The Foundation"
 title_separator          : "-"
 name                     : &name "Houssein Abbouchi"
 description              : &description "personal description"
