@@ -26,7 +26,7 @@ I am a Data Scientist at a financial company called **"Prêt à dépenser"**, wh
 
 ***
 <p align="center">    
-    <img src="pictures/pret_logo.png" width="200"  alt="Ready to Spend"/>    
+    <img src="/images/pret_logo.png" width="200"  alt="Ready to Spend"/>    
 </p>
 
 ***
