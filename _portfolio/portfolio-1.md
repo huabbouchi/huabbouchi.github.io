@@ -23,7 +23,7 @@ I am a Data Scientist at a very young AgriTech startup named ***"Fruits!"***, wh
 
 ***
 <p align="center">    
-    <img src="images/logo_fruits.png" width="200"  alt="Prêt à dépenser"/>    
+    <img src="/images/logo_fruits.png" width="200"  alt="Prêt à dépenser"/>    
 </p>
 
 ***
