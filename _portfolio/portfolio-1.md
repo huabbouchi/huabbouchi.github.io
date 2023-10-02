@@ -501,7 +501,7 @@ img_example
 
 
     
-![png](deploy_model_cloud_files/deploy_model_cloud_23_1.png)
+![png](/images/deploy_model_cloud_23_1.png)
     
 
 
@@ -549,7 +549,7 @@ plt.imshow(img_resize)
 
 
     
-![png](deploy_model_cloud_files/deploy_model_cloud_25_1.png)
+![png](/images/deploy_model_cloud_25_1.png)
     
 
 
@@ -563,7 +563,7 @@ array_to_img(img_process)
 
 
     
-![png](deploy_model_cloud_files/deploy_model_cloud_26_0.png)
+![png](/images/deploy_model_cloud_26_0.png)
     
 
 
@@ -889,7 +889,7 @@ plt.show()
 
 
     
-![png](deploy_model_cloud_files/deploy_model_cloud_39_0.png)
+![png](/images/deploy_model_cloud_39_0.png)
     
 
 
