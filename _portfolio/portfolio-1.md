@@ -1,7 +1,63 @@
 ---
-title: "Portfolio item number 1"
+title: "Deploy a model in the cloud"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+### Table of Contents
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- [Introduction](#C1)
+
+    - [Data](#C1.1)
+
+    - [Mission](#C1.2)
+
+    - [Specifications](#C1.3)
+
+<br>
+
+***
+## Introduction<a name="C1"></a>
+***
+
+I am a Data Scientist at a very young AgriTech startup named ***"Fruits!"***, which aims to provide innovative solutions for fruit harvesting.
+
+***
+<p align="center">    
+    <img src="pictures/logo_fruits.png" width="200"  alt="Prêt à dépenser"/>    
+</p>
+
+***
+
+The company's goal is to preserve fruit biodiversity by enabling specific treatments for each fruit species through the development of smart picking robots.
+
+In the first phase, the startup aims to gain recognition by offering the general public a mobile application that allows users to take a photo of a fruit and obtain information about it.
+
+For the startup, this application will raise public awareness of fruit biodiversity and establish an initial version of the fruit image classification engine.
+
+Furthermore, the development of the mobile application will allow the construction of an initial version of the required Big Data architecture.
+
+<br>
+
+***
+### Data<a name="C1.1"></a>
+***
+
+A dataset already exists, consisting of fruit images and associated labels, which will serve as a starting point for building part of the data processing pipeline.
+
+<br>
+
+***
+### Mission<a name="C1.2"></a>
+***
+
+I am tasked with developing a preliminary data processing pipeline in **a Big Data environment**, including **preprocessing** and a **dimensionality reduction** step.
+
+<br>
+
+***
+### Specifications<a name="C1.3"></a>
+***
+
+- I must consider in my development that the data volume will increase rapidly after the delivery of this project. Therefore, I will develop **Pyspark scripts** and utilize, for example, **AWS cloud services** to take advantage of a **Big Data architecture (EC2, S3, IAM)**, based on **an EC2 Linux server**.
+- Implementing a Big Data architecture under (for example) AWS may require a more powerful server configuration than the one provided for free (EC2 = t2.micro, 1 GB RAM, 8 GB server disk).
+
