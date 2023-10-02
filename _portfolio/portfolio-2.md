@@ -14,7 +14,9 @@ collection: portfolio
 
     - <a href="#C1.2">Dashboard Specifications</a>
 
-- <a href="#C2">Link</a>
+- <a href="#C2">Code</a>
+
+- <a href="#C3">Link</a>
 
 <br>
 
@@ -53,7 +55,15 @@ Hence, Ready to Spend decides to develop **an interactive dashboard** to enable 
 <br>
 
 ***
-## <a name="C2">Link</a>
+## <a name="C2">Code</a>
+***
+
+To access the code, please check my github repository by clicking [here](https://github.com/huabbouchi/P7_home_credit_risk_dashboard)
+
+<br>
+
+***
+## <a name="C3">Link</a>
 ***
 
 To access the Dashboard, please click [here](https://huabbouchi-p7-home-credit-risk-dashboard-main-9dpela.streamlitapp.com/)
