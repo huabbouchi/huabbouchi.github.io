@@ -15,7 +15,7 @@ main:
     
   - title: "CV"
     #url: /cv/
-    url: /files/CV_Houssein_Abbouchi_En.pdf/
+    url: /files/CV_Houssein_Abbouchi_En.pdf
 
   - title: "Publications"
     url: /publications/
