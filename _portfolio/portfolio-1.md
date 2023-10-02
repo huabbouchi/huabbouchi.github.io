@@ -1,6 +1,6 @@
 ---
 title: "Deploy a model in the cloud"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Deploy a PySpark code for a Convolutional Nuerla Network Model (CNN) on the cloud using AWS <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 ### Table of Contents
