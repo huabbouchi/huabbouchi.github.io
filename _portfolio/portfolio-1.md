@@ -1,6 +1,6 @@
 ---
 title: "Deploy a model in the cloud"
-excerpt: "Deploy a PySpark code for a Convolutional Nuerla Network Model (CNN) on the cloud using AWS <br/><img src='/images/deploy_cloud_fruits.jpeg'>"
+excerpt: "Deploy a PySpark code for a Convolutional Neural Network Model (CNN) on the cloud using AWS <br/><img src='/images/deploy_cloud_fruits.jpeg'>"
 collection: portfolio
 ---
 ### Table of Contents
